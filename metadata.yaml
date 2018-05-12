@@ -18,7 +18,7 @@ creator:
     - Meade, Elizabeth Thomasina
     - Meade, Mrs. L. T.
     - Thomas, Elizabeth
-    birthdate: &id001 1854
+    birthdate: 1854
     deathdate: 1914
     gutenberg_agent_id: '1621'
     url: http://www.gutenberg.org/2009/agents/1621
@@ -27,11 +27,13 @@ creator:
     aliases:
     - Barton, Eustace Robert
     - Rawlings, Eustace Robert
-    birthdate: *id001
+    birthdate: 1854
     deathdate: 1943
     gutenberg_agent_id: '25228'
     url: http://www.gutenberg.org/2009/agents/25228
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22278#A-Master-of-Mysteries
 gutenberg_issued: '2007-08-08'
 gutenberg_type: Text
 identifiers:
